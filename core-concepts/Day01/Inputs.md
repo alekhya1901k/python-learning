@@ -18,6 +18,6 @@
 
 6. input() pauses program execution until user enters data.( waits until user click Enter and takes all the input before that click)
 
-7. Input values can later be converted to integers.
+7. Input values can later be converted to integers/Float/ or any data type accordingly.
 
     age = int(input("Enter your age?"))
