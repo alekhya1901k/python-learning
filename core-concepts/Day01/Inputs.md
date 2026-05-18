@@ -1,4 +1,4 @@
-1. input() collects data from the user during program execution.
+1. Inputs: input is a function collects data from the user during program execution.
 
     Syntax: input("What is your name?")
 
@@ -7,7 +7,6 @@
     input() captures it.
     The value becomes a string.
     It can be combined with other strings.
-
 
 2. Input is always stored as a string by default.
 

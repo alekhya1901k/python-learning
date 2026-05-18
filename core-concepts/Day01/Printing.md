@@ -6,12 +6,12 @@
 
 4. Triple quotes for multi line (''' or """ both are valid)
 
-single line: print("Hello world!\nHello world!\nHello world!") 
+    single line: print("Hello world!\nHello world!\nHello world!") 
 
-Multi line: 
-print("""Hello world!
-Hello world!
-Hello world!""")
+    Multi line: 
+    print("""Hello world!
+    Hello world!
+    Hello world!""")
 
 5. Every print() statement prints on a new line by default.
 
