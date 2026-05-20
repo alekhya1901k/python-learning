@@ -9,30 +9,34 @@ Interview preparation for basic Python concepts
 Quick revision before practice or assessments
 Building a foundation before moving into automation, data analysis, or backend development
 Course Structure
-```text
-python-learning/
-│
-├── README.md
-└── core-concepts/
-    ├── Day01/
-    │   ├── Printing.md
-    │   ├── String Manipulation.md
-    │   ├── Inputs.md
-    │   ├── variables.md
-    │   └── faq.md
-    │
-    ├── Day02/
-    │   ├── Primitive Data Types.md
-    │   ├── TypeError,Checking and Conversation.md
-    │   ├── Mathematical Operations.md
-    │   ├── Number Manipulation.md
-    │   └── faq.md
-    │
-    └── Day03/
-        ├── IF-ELSE.md
-        ├── Modulo.md
-        ├── Nesting and Elif.md
-        ├── Multiple Ifs.md
-        ├── Logical Operators.md
-        └── faq.md
-```
+
+## Core Concepts
+
+### Day 01
+
+- [Printing](core-concepts/Day01/Printing.md)
+- [String Manipulation](core-concepts/Day01/String%20Manipulation.md)
+- [Inputs](core-concepts/Day01/Inputs.md)
+- [Variables](core-concepts/Day01/variables.md)
+- [FAQ](core-concepts/Day01/faq.md)
+
+---
+
+### Day 02
+
+- [Primitive Data Types](core-concepts/Day02/Primitive%20Data%20Types.md)
+- [TypeError, Checking and Conversion](core-concepts/Day02/TypeError,Checking%20and%20Conversation.md)
+- [Mathematical Operations](core-concepts/Day02/Mathematical%20Operations.md)
+- [Number Manipulation](core-concepts/Day02/Number%20Manipulation.md)
+- [FAQ](core-concepts/Day02/faq.md)
+
+---
+
+### Day 03
+
+- [IF-ELSE](core-concepts/Day03/IF-ELSE.md)
+- [Modulo](core-concepts/Day03/Modulo.md)
+- [Nesting and Elif](core-concepts/Day03/Nesting%20and%20Elif.md)
+- [Multiple Ifs](core-concepts/Day03/Multiple%20Ifs.md)
+- [Logical Operators](core-concepts/Day03/Logical%20Operators.md)
+- [FAQ](core-concepts/Day03/faq.md)
