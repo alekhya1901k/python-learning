@@ -40,3 +40,12 @@ Course Structure
 - [Multiple Ifs](core-concepts/Day03/Multiple%20Ifs.md)
 - [Logical Operators](core-concepts/Day03/Logical%20Operators.md)
 - [FAQ](core-concepts/Day03/faq.md)
+
+---
+
+## Day 04 — Lists & Random Module
+
+- [IndexError](./core-concepts/Day04/IndexError.md)
+- [Lists](./core-concepts/Day04/Lists.md)
+- [Random Module](./core-concepts/Day04/Random%20Module.md)
+- [FAQ](./core-concepts/Day04/faq.md)
