@@ -49,3 +49,21 @@ Course Structure
 - [Lists](./core-concepts/Day04/Lists.md)
 - [Random Module](./core-concepts/Day04/Random%20Module.md)
 - [FAQ](./core-concepts/Day04/faq.md)
+
+  ---
+
+## Day 05 — Loops & Range
+
+- [For Loops](./core-concepts/Day05/For_Loops.md)
+- [For Loops with Range](./core-concepts/Day05/ForLoopswithRange.md)
+- [Highest Score](./core-concepts/Day05/Highest_Score.md)
+- [FAQ](./core-concepts/Day05/faq.md)
+
+---
+
+## Day 06 — Functions
+
+- [Functions](./core-concepts/Day06/Functions.md)
+- [FAQ](./core-concepts/Day06/faq.md)
+
+---
