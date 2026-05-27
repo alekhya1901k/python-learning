@@ -67,3 +67,12 @@ Course Structure
 - [FAQ](./core-concepts/Day06/faq.md)
 
 ---
+
+## Day 07 — Functions with Inputs
+
+- [Functions with Inputs](./core-concepts/Day07/Functions_with_Inputs.md)
+- [Positional and Keyword Arguments](./core-concepts/Day07/PositionalandKeywordArguments.md)
+- [Quick Short Notes](./core-concepts/Day07/QuickShortNotes.md)
+- [FAQ](./core-concepts/Day07/faq.md)
+
+---
