@@ -76,3 +76,11 @@ Course Structure
 - [FAQ](./core-concepts/Day07/faq.md)
 
 ---
+
+## Day 08 — Dictionaries & Nested Data Structures
+
+- [Dictionary](./core-concepts/Day08/dictionary.md)
+- [Nested Lists and Dictionaries](./core-concepts/Day08/Nested%20Lists_and_Dictionaries.md)
+- [FAQ](./core-concepts/Day08/faq.md)
+
+---
