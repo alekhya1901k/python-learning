@@ -79,17 +79,17 @@ Course Structure
 
 ## Day 08 — Dictionaries & Nested Data Structures
 
-- [Dictionary](./core-concepts/Day08/dictionary.md)
-- [Nested Lists and Dictionaries](./core-concepts/Day08/Nested%20Lists_and_Dictionaries.md)
-- [FAQ](./core-concepts/Day08/faq.md)
+- [Dictionary](./core-concepts/Day08(9)/dictionary.md)
+- [Nested Lists and Dictionaries](./core-concepts/Day08(9)/Nested%20Lists_and_Dictionaries.md)
+- [FAQ](./core-concepts/Day08(9)/faq.md)
 
 ---
 
 ## Day 09 — Functions with Outputs
 
-- [Functions with Outputs](./core-concepts/Day09/Functions_with_outputs.md)
-- [Multiple Return Values](./core-concepts/Day09/Multiple%20return%20values.md)
-- [Docstrings](./core-concepts/Day09/Docstringd.md)
-- [FAQ](./core-concepts/Day09/faq.md)
+- [Functions with Outputs](./core-concepts/Day09(10)/Functions_with_outputs.md)
+- [Multiple Return Values](./core-concepts/Day09(10)/Multiple%20return%20values.md)
+- [Docstrings](./core-concepts/Day09(10)/Docstringd.md)
+- [FAQ](./core-concepts/Day09(10)/faq.md)
 
 ---
