@@ -84,3 +84,12 @@ Course Structure
 - [FAQ](./core-concepts/Day08/faq.md)
 
 ---
+
+## Day 09 — Functions with Outputs
+
+- [Functions with Outputs](./core-concepts/Day09/Functions_with_outputs.md)
+- [Multiple Return Values](./core-concepts/Day09/Multiple%20return%20values.md)
+- [Docstrings](./core-concepts/Day09/Docstringd.md)
+- [FAQ](./core-concepts/Day09/faq.md)
+
+---
