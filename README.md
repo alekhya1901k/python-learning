@@ -93,3 +93,13 @@ Course Structure
 - [FAQ](./core-concepts/Day09(10)/faq.md)
 
 ---
+
+## Day 10 — Namespaces, Scope & Global Variables
+
+- [Namespaces and Scope](./core-concepts/Day10(12)/Namespaces_and_scope.md)
+- [Block Scope](./core-concepts/Day10(12)/Blockscope.md)
+- [Global Variables](./core-concepts/Day10(12)/Globalvars.md)
+- [Global Constants](./core-concepts/Day10(12)/Global_constants.md)
+- [FAQ](./core-concepts/Day10(12)/faq.md)
+
+---
