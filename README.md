@@ -103,3 +103,13 @@ Course Structure
 - [FAQ](./core-concepts/Day10(12)/faq.md)
 
 ---
+
+## Day 11 — Blackjack Project
+
+- [Flowchart](./core-concepts/Day11-Blackjack%20Project/Flowchart.md)
+- [Requirements & Rules](./core-concepts/Day11-Blackjack%20Project/Req%26Rules.md)
+- [Hints](./core-concepts/Day11-Blackjack%20Project/Hints.md)
+- [Implementation](./core-concepts/Day11-Blackjack%20Project/Implementation.py)
+- [Important Notes](./core-concepts/Day11-Blackjack%20Project/ImportantNotes.md)
+
+---
