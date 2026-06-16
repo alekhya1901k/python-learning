@@ -113,3 +113,16 @@ Course Structure
 - [Important Notes](./core-concepts/Day11-Blackjack%20Project/ImportantNotes.md)
 
 ---
+
+## Day 14 — Debugging Project
+
+- [Debugging Overview](./core-concepts/Day14-Debugging%20Project/Debugging.md)
+- [1. Describe the Problem](./core-concepts/Day14-Debugging%20Project/1DescribeProblem.md)
+- [2. Reproduce the Bug](./core-concepts/Day14-Debugging%20Project/2ReproduceBug.md)
+- [3. Play Computer](./core-concepts/Day14-Debugging%20Project/3PlayComputer.md)
+- [4. Fix Errors](./core-concepts/Day14-Debugging%20Project/4FixErrors.md)
+- [5. Use Print Statements](./core-concepts/Day14-Debugging%20Project/5UsePrint.md)
+- [6. Use Debugger](./core-concepts/Day14-Debugging%20Project/6UseDebugger.md)
+- [FAQ](./core-concepts/Day14-Debugging%20Project/faq.md)
+
+---
