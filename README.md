@@ -126,3 +126,19 @@ Course Structure
 - [FAQ](./core-concepts/Day14-Debugging%20Project/faq.md)
 
 ---
+
+## Day 15 — Higher or Lower Project
+
+- [Project Notes & FAQs](./core-concepts/Day15_Higher_or_Lower_Project/Notes_and_faqs.md)
+- [Game Data](./core-concepts/Day15_Higher_or_Lower_Project/data.py)
+- [ASCII Art](./core-concepts/Day15_Higher_or_Lower_Project/art.py)
+- [Main Implementation](./core-concepts/Day15_Higher_or_Lower_Project/main.py)
+
+---
+
+## Day 16 — Coffee Machine Project
+
+- [Project Notes & FAQs](./core-concepts/Day16_Coffee_machine_Project/Notes_and_faqs.md)
+- [Main Implementation](./core-concepts/Day16_Coffee_machine_Project/main.py)
+
+---
