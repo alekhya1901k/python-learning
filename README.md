@@ -142,3 +142,44 @@ Course Structure
 - [Main Implementation](./core-concepts/Day16_Coffee_machine_Project/main.py)
 
 ---
+
+## Day 17 — Number Guessing Project
+
+- [Project Notes & FAQs](./core-concepts/Day17-Number%20guessing%20project/Notes_and_faqs.md)
+- [Main Implementation](./core-concepts/Day17-Number%20guessing%20project/main.py)
+
+---
+
+## Day 18 — Prime Number Checker
+
+- [Project Notes & FAQs](./core-concepts/Day18_Prime%20Number%20Checker/Notes_and_faqs.md)
+- [Main Implementation](./core-concepts/Day18_Prime%20Number%20Checker/main.py)
+
+---
+
+## Day 19 — Introduction to OOP
+
+- [Classes and Objects](./core-concepts/OOPS/Day19_INTRODUCTION/Classes_and_Objects.md)
+- [Why Do We Need OOP?](./core-concepts/OOPS/Day19_INTRODUCTION/Why_Do_We_Need_OOP.md)
+- [Constructing Objects, Attributes and Constructors](./core-concepts/OOPS/Day19_INTRODUCTION/ConstructingObjects_Attributes_and_Constructors.md)
+- [Coffee Machine OOP Project](./core-concepts/OOPS/Day19_INTRODUCTION/Coffee_Machine_OOP.md)
+- [Python Packages and PyPI](./core-concepts/OOPS/Day19_INTRODUCTION/Python_Packages_and_PyPI.md)
+- [PrettyTable Practice](./core-concepts/OOPS/Day19_INTRODUCTION/PrettyTable_Practice.md)
+- [FAQ](./core-concepts/OOPS/Day19_INTRODUCTION/FAQ.md)
+
+---
+
+## Day 20 — Quiz Project & Custom Classes
+
+- [Creating Your Own Class](./core-concepts/Day20/1Creating_Your_Own_Class.md)
+- [Attributes, Constructors and Init](./core-concepts/Day20/2Attributes_Constructors_and_Init.md)
+- [Methods in Classes](./core-concepts/Day20/3Methods_in_Classes.md)
+- [Quiz Project Part 1 – Question Class](./core-concepts/Day20/4Quiz_Project_Part1_Question_Class.md)
+- [Quiz Project Part 2 – Question Bank](./core-concepts/Day20/5Quiz_Project_Part2_Question_Bank.md)
+- [Quiz Project Part 3 – Quiz Brain](./core-concepts/Day20/6Quiz_Project_Part3_QuizBrain.md)
+- [Quiz Project Part 4 – Showing Questions](./core-concepts/Day20/7Quiz_Project_Part4_Showing_Questions.md)
+- [Quiz Project Part 5 – Scoring](./core-concepts/Day20/8Quiz_Project_Part5_Scoring.md)
+- [OOP Benefits & Open Trivia DB](./core-concepts/Day20/9OOP_Benefits_OpenTriviaDB.md)
+- [FAQ](./core-concepts/Day20/Faq.md)
+
+---
