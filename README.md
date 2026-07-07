@@ -169,7 +169,7 @@ Course Structure
 
 ## Day 20 — Creating Custom Classes
 
-- [Creating Your Own Class](./OOPS/Day20/1Creating_Your_Own_Class.md)
+- [Creating Your Own Class](core-concepts/OOPS/Day20/1Creating_Your_Own_Class.md)
 - [Attributes, Constructors and Init](./OOPS/Day20/2Attributes_Constructors_and_Init.md)
 - [Methods in Classes](./OOPS/Day20/3Methods_in_Classes.md)
 - [Quiz Project Part 1 - Question Class](./OOPS/Day20/4Quiz_Project_Part1_Question_Class.md)
