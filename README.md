@@ -181,3 +181,13 @@ Course Structure
 - [FAQ](core-concepts/OOPS/Day20/Faq.md)
 
 ---
+
+## Day 21 — Quiz Game OOP Project
+
+- [Project README](./core-concepts/OOPS/Day20/Day21_quiz-game-oop/README.md)
+- [Question Model](./core-concepts/OOPS/Day20/Day21_quiz-game-oop/question_model.py)
+- [Quiz Brain](./core-concepts/OOPS/Day20/Day21_quiz-game-oop/quiz_brain.py)
+- [Question Data](./core-concepts/OOPS/Day20/Day21_quiz-game-oop/data.py)
+- [Main Implementation](./core-concepts/OOPS/Day20/Day21_quiz-game-oop/main.py)
+
+---
