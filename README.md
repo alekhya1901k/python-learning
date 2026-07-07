@@ -167,19 +167,17 @@ Course Structure
 - [PrettyTable Practice](./core-concepts/OOPS/Day19_INTRODUCTION/PrettyTable_Practice.md)
 - [FAQ](./core-concepts/OOPS/Day19_INTRODUCTION/FAQ.md)
 
----
+## Day 20 — Creating Custom Classes
 
-## Day 20 — Quiz Project & Custom Classes
-
-- [Creating Your Own Class](./core-concepts/Day20/1Creating_Your_Own_Class.md)
-- [Attributes, Constructors and Init](./core-concepts/Day20/2Attributes_Constructors_and_Init.md)
-- [Methods in Classes](./core-concepts/Day20/3Methods_in_Classes.md)
-- [Quiz Project Part 1 – Question Class](./core-concepts/Day20/4Quiz_Project_Part1_Question_Class.md)
-- [Quiz Project Part 2 – Question Bank](./core-concepts/Day20/5Quiz_Project_Part2_Question_Bank.md)
-- [Quiz Project Part 3 – Quiz Brain](./core-concepts/Day20/6Quiz_Project_Part3_QuizBrain.md)
-- [Quiz Project Part 4 – Showing Questions](./core-concepts/Day20/7Quiz_Project_Part4_Showing_Questions.md)
-- [Quiz Project Part 5 – Scoring](./core-concepts/Day20/8Quiz_Project_Part5_Scoring.md)
-- [OOP Benefits & Open Trivia DB](./core-concepts/Day20/9OOP_Benefits_OpenTriviaDB.md)
-- [FAQ](./core-concepts/Day20/Faq.md)
+- [Creating Your Own Class](./OOPS/Day20/1Creating_Your_Own_Class.md)
+- [Attributes, Constructors and Init](./OOPS/Day20/2Attributes_Constructors_and_Init.md)
+- [Methods in Classes](./OOPS/Day20/3Methods_in_Classes.md)
+- [Quiz Project Part 1 - Question Class](./OOPS/Day20/4Quiz_Project_Part1_Question_Class.md)
+- [Quiz Project Part 2 - Question Bank](./OOPS/Day20/5Quiz_Project_Part2_Question_Bank.md)
+- [Quiz Project Part 3 - Quiz Brain](./OOPS/Day20/6Quiz_Project_Part3_QuizBrain.md)
+- [Quiz Project Part 4 - Showing Questions](./OOPS/Day20/7Quiz_Project_Part4_Showing_Questions.md)
+- [Quiz Project Part 5 - Scoring](./OOPS/Day20/8Quiz_Project_Part5_Scoring.md)
+- [OOP Benefits & Open Trivia DB](./OOPS/Day20/9OOP_Benefits_OpenTriviaDB.md)
+- [FAQ](./OOPS/Day20/Faq.md)
 
 ---
